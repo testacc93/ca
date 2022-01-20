@@ -1,0 +1,310 @@
+::selection {
+	color: #FFF;
+	background: #335ffe;
+}
+a {
+color: #335ffe;
+}
+a:hover {
+color: #335ffe;
+}
+.carousel .carousel-caption h2{
+color: #335ffe;
+}
+#ca_header{
+background:#8fba75;
+}
+.ca_menu ul li a:hover{
+background: #6081ff;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_our_capabilities #ca_our_capabilities_slider .ca_our_capabilities_slider_item .ca_capabilities_step .ca_capabilities_step_icon_border .ca_capabilities_step_icon{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_slider_sidebar .carousel-indicators .active{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_slider_sidebar .carousel-indicators .active:before{
+border-right: 10px solid #335ffe;
+}
+#style-switcher > div > h3{
+color: #335ffe !important;
+}
+ul.colors li{
+border: 1px solid #335ffe;
+}
+.ca_social ul li a:hover{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_menu ul li ul.sub-menu:before{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_theme_color{
+color: #8fba75;
+}
+.ca_stap:hover{
+border-top: 4px solid #335ffe;
+}
+.ca_stap:hover > .ca_step_icon_border{
+border-color: #335ffe;
+}
+.ca_stap:hover > .ca_step_icon_border > .ca_step_icon{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_our_capabilities #ca_our_capabilities_slider .ca_our_capabilities_slider_item .ca_capabilities_step .ca_capabilities_step_icon_border{
+border: 1px solid #335ffe;
+}
+.ca_heading{
+border-left: 2px solid #335ffe;
+}
+.ca_heading:before{
+background: #335ffe;
+}
+.ca_testimonials #ca_testimonials_slider .ca_testimonials_slider_item .ca_testimonials_item:hover{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.customNavigation a:hover{
+border-color: #335ffe;
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_team #ca_team_slider .ca_team_slider_item .ca_team_item .ca_team_image_fix_overlay {
+background: rgba(51, 95, 254, 0.3);
+}
+.checkbox > label::before{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_our_clients #ca_our_clients_slider .ca_our_clients_slider_item .ca_our_clients_item:hover{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_footer_tag ul li a:hover{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_footer_menu ul li a:hover{
+color: #335ffe;
+}
+.ca_footer_links ul li a i{
+color: #335ffe;
+}
+.input-group-addon{
+border: 2px solid #669fff;
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_search_form input{
+border: 2px solid #335ffe;
+color:#335ffe;
+}
+.form-control:hover, .form-control:focus{
+border-color: #335ffe;
+}
+.form-control:hover::-moz-placeholder {
+ color: #335ffe;
+ opacity: 1;
+}
+.form-control:hover:-ms-input-placeholder {
+ color: #335ffe;
+}
+.form-control:hover::-webkit-input-placeholder {
+ color: #335ffe;
+}
+.ca_team_image_link ul li a:hover{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+ul.ca_breadcrum li.active a{
+color: #335ffe;
+}
+ul.ca_breadcrum li a:hover{
+color: #335ffe;
+}
+.ca_services_part:hover .ca_services_icon{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_services_part:hover .ca_services_icon_border{
+border: 1px solid #335ffe;
+}
+.ca_about_stap:hover{
+border-left: 4px solid #335ffe;
+}
+.ca_team_for_about #ca_team_for_about_slider .ca_team_for_about_slider_item .ca_team_item .ca_team_image_fix_overlay{
+background: rgba(51, 95, 254, 0.3);
+}
+.ca_price_table .ca_table:hover .ca_table_footer a{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+ul.ca_category_item li a:hover{
+color: #335ffe;
+}
+.ca_client_part:hover{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_client_part:hover:before {
+    border-right: 24px solid #5083fe;
+}
+.ca_progress_icon svg{
+fill: #335ffe;
+}
+.ca_progress_icon svg circle{
+fill: #335ffe;
+}
+.ca_progress_icon svg path{
+fill: #335ffe;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary{
+border-top: 1px outset #669fff;
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_client_goal img:hover{
+border: solid 2px #335ffe;
+}
+.ca_date{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_date:before{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_date:after{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+#datepicker .ui-datepicker tr th{
+color: #335ffe;
+}
+#datepicker .ui-state-active{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+#datepicker .ui-state-default:hover{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_sidebar_tag ul li a:hover{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_category_comment:hover{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+ul.about_list_item li a:hover{
+color: #335ffe;
+}
+.ca_map_details{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.ca_map_details:after{
+border-left: 24px solid #335ffe;
+}
+.panel-heading.active{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.nav > li > a:hover, .nav > li > a:focus{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.scrollToTop:hover{
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+.owl-nav > div:hover{
+background: #669fff;
+background: linear-gradient(#669fff, #335ffe);
+background: -webkit-linear-gradient(#669fff, #335ffe);
+background: -o-linear-gradient(#669fff, #335ffe);
+background: -moz-linear-gradient(#669fff, #335ffe);
+}
+
+/*--- Responsive css start ---*/
+@media (max-width: 767px) {
+	.ca_menu ul li a{
+		background: #6081ff;
+	}
+	.ca_menu ul li a:hover{
+		background: #29313c;
+	}
+	.ca_menu ul li ul.sub-menu li a{
+		background: rgba(96, 129, 255, 0.6);
+	}
+	.ca_map_details:after{
+		border-right: 24px solid #669fff;
+		border-left: none;
+	}
+}
+/*--- Responsive css end ---*/

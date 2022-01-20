@@ -1,0 +1,309 @@
+::selection {
+	color: #FFF;
+	background: #8fba75;
+}
+a {
+color: #8fba75;
+}
+a:hover {
+color: #8fba75;
+}
+.carousel .carousel-caption h2{
+color: #8fba75;
+}
+#ca_header{
+background: #8fba75;
+}
+.ca_menu ul li a:hover{
+background: #a8ca94;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_our_capabilities #ca_our_capabilities_slider .ca_our_capabilities_slider_item .ca_capabilities_step .ca_capabilities_step_icon_border .ca_capabilities_step_icon{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_slider_sidebar .carousel-indicators .active{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_slider_sidebar .carousel-indicators .active:before{
+border-right: 10px solid #8fba75;
+}
+#style-switcher > div > h3{
+color: #8fba75 !important;
+}
+ul.colors li{
+border: 1px solid #8fba75;
+}
+.ca_social ul li a:hover{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_menu ul li ul.sub-menu:before{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_theme_color{
+color: #8fba75;
+}
+.ca_stap:hover{
+border-top: 4px solid #8fba75;
+}
+.ca_stap:hover > .ca_step_icon_border{
+border-color: #8fba75;
+}
+.ca_stap:hover > .ca_step_icon_border > .ca_step_icon{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_our_capabilities #ca_our_capabilities_slider .ca_our_capabilities_slider_item .ca_capabilities_step .ca_capabilities_step_icon_border{
+border: 1px solid #8fba75;
+}
+.ca_heading{
+border-left: 2px solid #8fba75;
+}
+.ca_heading:before{
+background: #8fba75;
+}
+.ca_testimonials #ca_testimonials_slider .ca_testimonials_slider_item .ca_testimonials_item:hover{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.customNavigation a:hover{
+border-color: #8fba75;
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_team #ca_team_slider .ca_team_slider_item .ca_team_item .ca_team_image_fix_overlay {
+background: rgba(143, 186, 117, 0.3);
+}
+.checkbox > label::before{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_our_clients #ca_our_clients_slider .ca_our_clients_slider_item .ca_our_clients_item:hover{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_footer_tag ul li a:hover{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_footer_menu ul li a:hover{
+color: #8fba75;
+}
+.ca_footer_links ul li a i{
+color: #8fba75;
+}
+.input-group-addon{
+border: 2px solid #b3cc98;
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_search_form input{
+border: 2px solid #8fba75;
+color:#8fba75;
+}
+.form-control:hover, .form-control:focus{
+border-color: #8fba75;
+}
+.form-control:hover::-moz-placeholder {
+ color: #8fba75;
+ opacity: 1;
+}
+.form-control:hover:-ms-input-placeholder {
+ color: #8fba75;
+}
+.form-control:hover::-webkit-input-placeholder {
+ color: #8fba75;
+}
+.ca_team_image_link ul li a:hover{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+ul.ca_breadcrum li.active a{
+color: #8fba75;
+}
+ul.ca_breadcrum li a:hover{
+color: #8fba75;
+}
+.ca_services_part:hover .ca_services_icon{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_services_part:hover .ca_services_icon_border{
+border: 1px solid #8fba75;
+}
+.ca_about_stap:hover{
+border-left: 4px solid #8fba75;
+}
+.ca_team_for_about #ca_team_for_about_slider .ca_team_for_about_slider_item .ca_team_item .ca_team_image_fix_overlay{
+background: rgba(143, 186, 117, 0.3);
+}
+.ca_price_table .ca_table:hover .ca_table_footer a{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+ul.ca_category_item li a:hover{
+color: #8fba75;
+}
+.ca_client_part:hover{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_client_part:hover:before {
+border-right: 24px solid #a3c488;
+}
+.ca_progress_icon svg{
+fill: #8fba75;
+}
+.ca_progress_icon svg circle{
+fill: #8fba75;
+}
+.ca_progress_icon svg path{
+fill: #8fba75;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary{
+border-top: 1px outset #b3cc98;
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_client_goal img:hover{
+border: solid 2px #8fba75;
+}
+.ca_date{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_date:before{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_date:after{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+#datepicker .ui-datepicker tr th{
+color: #8fba75;
+}
+#datepicker .ui-state-active{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+#datepicker .ui-state-default:hover{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_sidebar_tag ul li a:hover{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_category_comment:hover{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+ul.about_list_item li a:hover{
+color: #8fba75;
+}
+.ca_map_details{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.ca_map_details:after{
+border-left: 24px solid #8fba75;
+}
+.panel-heading.active{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.nav > li > a:hover, .nav > li > a:focus{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.scrollToTop:hover{
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+.owl-nav > div:hover{
+background: #8fba75;
+background: linear-gradient(#b3cc98, #8fba75);
+background: -webkit-linear-gradient(#b3cc98, #8fba75);
+background: -o-linear-gradient(#b3cc98, #8fba75);
+background: -moz-linear-gradient(#b3cc98, #8fba75);
+}
+
+/*--- Responsive css start ---*/
+@media (max-width: 767px) {
+.ca_menu ul li a{
+background: #a8ca94;
+}
+.ca_menu ul li a:hover{
+background: #29313c;
+}
+.ca_menu ul li ul.sub-menu li a{
+background: rgba(143, 186, 117, 0.6);
+}
+.ca_map_details:after{
+border-right: 24px solid #b3cc98;
+border-left: none;
+}
+}

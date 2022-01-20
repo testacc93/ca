@@ -1,0 +1,20 @@
+/*
+Copyright (c) 2017 Themes.
+------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Chartered A/C Multipurpose HTML
+Version:	1.0.0
+Assigned to:	Html
+Primary use:	Chartered A/C, Multipurpose  
+-------------------------------------------------------------------*/
+@import url("style.css");
+@import url("bootstrap.css");
+@import url("owl.carousel.css");
+@import url("owl.transitions.css");
+@import url("font-awesome.css");
+@import url("animate.min.css");
+@import url("gallery.css");
+@import url("jquery-ui.css");
+@import url("../js/plugin/fancybox/jquery.fancybox.css");
+@import url("responsive.css");

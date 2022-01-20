@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+<title>Alisha Dharsi & associates</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Chartered A/C Multipurpose HTML" />
+<meta name="keywords" content="chartered accountant, ca, CA, accounting, advisory, broker, brokerage, business, coaching, company, consulting, corporate, finance, financial, insurance, law office, lawyer, professional services" />
+<meta name="author"  content="TemplateBundle"/>
+<meta name="MobileOptimized" content="320" />
+<link rel="stylesheet" href="{% static 'css/main.css' %}" type="text/css" media="screen"/>
+<link rel="stylesheet" id="theme-color" type="text/css" href="#"/>
+<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+<link rel="icon" type="image/ico" href="favicon.ico" />
+</head>
+<body>
+<div id="preloader">
+    <div id="status"><img src="{% static 'images/preloader.gif' %}" id="preloader_image" width="32" height="32" alt="loading image"/></div>
+</div>
+
+<header id="ca_header">
+    <div class="container">
+        <div class="ca_logo" data-scrollreveal="enter from the top over 1s but wait 0.5s">
+            <a href="/">
+               <h4 style="margin-left:7%">Alisha Dharsi and associates</h4>
+            </a>
+        </div>
+        <div class="ca_menu">
+            <div class="ca_menu_toggle" data-toggle="collapse" data-target="#ca_menu_toggle_collapse">Menu <i class="fa fa-bars"></i></div>
+            <ul class="collapse navbar-collapse" id="ca_menu_toggle_collapse">
+                <li>
+                    <a href="/">
+                        Home
+                    </a>
+                </li>
+                <li>
+                    <a href="/services">
+                        Services
+                    </a>
+                </li>
+                {% comment %} <li>
+                    <a href="/blogs">
+                        Blogs
+                    </a>
+                </li> {% endcomment %}
+                <li>
+                    <a href="/about">
+                        About us
+                    </a>
+                </li>
+                <li>
+                    <a href="/contact-us">
+                        Contact us
+                    </a>
+                </li>
+                <li>
+                    <a class="ca_search_icon">
+                        <i class="fa fa-search"></i>
+                    </a>
+                </li>
+            </ul>
+            <div class="ca_search_form">
+                <div class="ca_Search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Enter Your Search term....">
+                        <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!--header end-->
+<!--Welcome note start-->
+{% block body %}{% endblock body %}
+<!--Our Clients end-->
+<footer id="ca_footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <h3 class="ca_heading" data-scrollreveal="enter from the top over 1s but wait 0.5s">Contact</h3>
+                    <div class="ca_footer_address" data-scrollreveal="enter from the top over 1s but wait 0.5s">
+                        <i class="fa fa-map-marker"></i>
+                        <span style="margin-bottom:2px">1067, Rustomjee Eaze Zone, Vasari Hill Rd, Sunder Nagar, Malad West, Mumbai</span>
+                    </div>
+                    <div class="ca_footer_phone" data-scrollreveal="enter from the top over 1s but wait 0.7s">
+                        <i class="fa fa-phone"></i>
+                        <span>+91 9876543210</span>
+                    </div>
+                    
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <h3 class="ca_heading" data-scrollreveal="enter from the top over 1s but wait 0.5s">Working Hours</h3>
+                    <p data-scrollreveal="enter from the top over 1s but wait 0.6s">Monday - Saturday : 11:00 AM to 6:00 PM</p>
+                    <p data-scrollreveal="enter from the top over 1s but wait 0.8s">Sunday : Off </p>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    
+                    <h3 class="ca_heading" data-scrollreveal="enter from the top over 1s but wait 0.5s">Follow us on Social Networks</h3>
+                    <div class="ca_social">
+                        <ul>
+                            <li data-scrollreveal="enter from the top over 1s but wait 0.3s">
+                                <a href="">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                            </li>
+                            <li data-scrollreveal="enter from the top over 1s but wait 0.5s">
+                                <a href="">
+                                    <i class="fa fa-google-plus"></i>
+                                </a>
+                            </li>
+                            <li data-scrollreveal="enter from the top over 1s but wait 0.7s">
+                                <a href="">
+                                    <i class="fa fa-behance"></i>
+                                </a>
+                            </li>
+                            <li data-scrollreveal="enter from the top over 1s but wait 0.9s">
+                                <a href="">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<a href="#" class="scrollToTop">
+    <i class="fa fa-arrow-up"></i>
+</a>
+<!--main js file start-->
+<script type="text/javascript" src="{% static 'js/jquery-1.11.1.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/jquery.easing.1.3.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/bootstrap.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/owl.carousel.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/scrollReveal.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/smoothscroll.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/modernizr.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/plugin/jquery.countTo.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/plugin/jquery.appear.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/plugin/jquery-ui.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/plugin/fancybox/jquery.fancybox.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/custom.js' %}"></script>
+</body>
+</html>

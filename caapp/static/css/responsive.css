@@ -1,0 +1,563 @@
+
+/* Copyright (c) 2017 Themes.
+------------------------------------------------------------------*/
+/************************  media css Start ******************/
+@media (max-width:1200px){
+	.page-content.inset .btn {
+		margin-bottom: 5px;
+	}
+	.ca_price_table.shortcode_table .ca_table {
+		width: 50%;
+		margin-bottom: 50px;
+	}
+}	
+/* Large desktop */
+@media (min-width: 992px) and (max-width: 1200px) {
+	.ca_about_chartered_accountant a {
+		margin-bottom: 15px;
+		padding: 10px 45px;
+	}
+	.ca_about_chartered_accountant .checkbox {
+		margin-bottom: 25px;
+	}
+	.ca_about_chartered_accountant h2 {
+		margin: 0px auto;
+	}
+	.ca_our_clients_item_detail {
+		padding: 0px;
+	}
+	.ca_flicker ul li a img {
+		width: 80px;
+		height: 80px;
+	}
+	#ca_footer h3 {
+		font-size: 20px;
+	}
+	.ca_comment_title_full {
+		width: 80%;
+	}
+}
+@media (max-width:991px){
+	.ca_copyright {
+		text-align: center;
+	}
+	.ca_price_table .ca_table{
+		width:50%;
+		margin-bottom:50px;
+	}
+}
+@media (min-width: 979px) and (max-width: 991px) {
+	.ca_logo {
+		float: left;
+		width: 100%;
+		text-align: center;
+	}
+	.ca_logo img {
+		border-right: none;
+	}
+	.ca_menu {
+		width: 100%;
+	}
+	.ca_menu ul {
+		float: none;
+		text-align: center;
+	}
+	.ca_menu ul ul li {
+		text-align: left;
+	}
+	.ca_price_table .ca_table {
+		width: 50%;
+		margin-bottom: 20px;
+	}
+	.ca_price_table .ca_table:hover {
+		-webkit-transform: scale(1.02);
+		-moz-transform: scale(1.02);
+		-ms-transform: scale(1.02);
+		-o-transform: scale(1.02);
+		-webkit-transition: all 0.3s;
+	}
+	.ca_price_table .ca_table.active {
+		-webkit-transform: scale(1.02);
+		-moz-transform: scale(1.02);
+		-ms-transform: scale(1.02);
+		-o-transform: scale(1.02);
+		-webkit-transition: all 0.3s;
+	}
+	.ca_meta_part {
+		float: left !important;
+		width: 100%;
+		border-right: none;
+	}
+	.ca_calendar_part {
+		width: auto;
+		float: left;
+		border-bottom: none;
+	}
+	.ca_meta_date {
+		line-height: 28px;
+		font-size: 30px;
+		float: left;
+		display: inline-block;
+	}
+	.ca_calendar_part span p, 
+	.ca_calendar_part .ca_meta_date span {
+		font-size: 20px;
+		line-height: 0px;
+		float: none;
+		display: inline-block;
+	}
+	.ca_comment_title_full {
+		width: 100%;
+		padding-left: 30px;
+	}
+	.ca_comment_meta a {
+		padding-left: 30px;
+	}
+	.ca_comment_title {
+		padding-left: 30px;
+	}
+	.ca_index2_slider #ca_slider2 .item .ca_slider2_overlay p iframe {
+		min-height: inherit;
+		max-width: inherit;
+	}
+	.ca_progress_value {
+		font-size: 35px;
+	}
+	.ca_progess_label {
+		font-size: 15px;
+	}
+	.ca_progress_icon svg {
+		width: 60px;
+	}
+	
+}
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 978px) {
+	.ca_our_clients_item_detail {
+		margin: 0px auto;
+	}
+	.ca_logo {
+		float: left;
+		width: 100%;
+		text-align: center;
+	}
+	.ca_logo img {
+		border-right: none;
+	}
+	.ca_menu {
+		width: 100%;
+	}
+	.ca_menu ul {
+		float: none;
+		text-align: center;
+	}
+	.ca_menu ul ul li {
+		text-align: left;
+	}
+	.ca_price_table .ca_table:hover {
+		-webkit-transform: scale(1.02);
+		-moz-transform: scale(1.02);
+		-ms-transform: scale(1.02);
+		-o-transform: scale(1.02);
+		-webkit-transition: all 0.3s;
+	}
+	.ca_price_table .ca_table.active {
+		-webkit-transform: scale(1.02);
+		-moz-transform: scale(1.02);
+		-ms-transform: scale(1.02);
+		-o-transform: scale(1.02);
+		-webkit-transition: all 0.3s;
+	}
+	.ca_meta_part {
+		float: left !important;
+		width: 100%;
+		border-right: none;
+	}
+	.ca_calendar_part {
+		width: auto;
+		float: left;
+		border-bottom: none;
+	}
+	.ca_meta_date {
+		line-height: 28px;
+		font-size: 30px;
+		float: left;
+		display: inline-block;
+	}
+	.ca_calendar_part span p, 
+	.ca_calendar_part .ca_meta_date span {
+		font-size: 20px;
+		line-height: 0px;
+		float: none;
+		display: inline-block;
+	}
+	.ca_comment_title_full {
+		width: 100%;
+	}
+	.ca_index2_slider #ca_slider2 .item .ca_slider2_overlay p iframe {
+		min-height: inherit;
+		max-width: inherit;
+	}
+}
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+	.ca_slider_sidebar .sidebar_logo {
+		display: none !important;
+	}
+	.ca_our_clients_item_detail {
+		margin: 0px auto;
+		padding: 0px;
+	}
+	.ca_logo {
+		float: none;
+		width: 100%;
+		text-align: center;
+	}
+	.ca_logo img {
+		border-right: 2px solid rgba(0,0,0,0);
+		padding-right: 20px;
+	}
+	.ca_our_clients #ca_our_clients_slider .ca_our_clients_slider_item .ca_our_clients_item {
+		margin-right: 0px;
+		text-align: center;
+	}
+	/*******************************Responsive menu ************************/	
+	.ca_menu_toggle {
+		display: block;
+		margin-bottom: 15px;
+	}
+	.ca_menu {
+		margin-bottom: 15px;
+		width: 100%;
+	}
+	.ca_menu ul {
+		float: none;
+		width: 100%;
+		text-align:left;
+	}
+	.ca_menu ul li {
+		width: 100%;
+		display: inline-block;
+	}
+	.ca_menu ul li a {
+		width: 100%;
+		display: inline-block;
+		padding: 10px 15px;
+		/* background: #5fafff; */
+		border-top: none;
+	}
+	.ca_menu ul li a:hover {
+		border-top: none;
+		background: #29313c;
+	}
+	.ca_menu ul li a:before {
+		content: "";
+	}
+	.ca_menu ul li ul.sub-menu {
+		width: 100%;
+		text-align:left;
+		position: relative;
+		top: 0;
+	}
+	.ca_menu ul li ul.sub-menu:before {
+		height: 0px;
+	}
+	.ca_menu ul li ul.sub-menu li {
+		width: 100%;
+	}
+	.ca_menu ul li ul.sub-menu li a {
+		width: 100% !important;
+		padding-left: 30px;
+		background: rgba(51, 153, 255, 0.5);
+	}
+	.ca_menu ul li ul.sub-menu li ul.sub-menu {
+		width: 100%;
+		position: relative;
+		top: 0;
+		left: 0;
+	}
+	.ca_menu ul li ul.sub-menu li ul.sub-menu li {
+		width: 100%;
+	}
+	.ca_menu ul li ul.sub-menu li ul.sub-menu li a {
+		width: 100% !important;
+		padding-left: 30px;
+		background: rgba(51, 153, 255, 0.5);
+		padding-left: 60px;
+	}
+	.ca_menu ul li ul.sub-menu li ul.sub-menu li a:hover {
+		border-top: none;
+		background: #29313c;
+	}
+	.ca_search_icon {
+		padding: 20px 15px !important;
+	}
+	.ca_search_form {
+		right: 10px;
+		padding-left: 20px;
+	}
+	.ca_client_goal {
+		position: relative;
+		left: 0;
+	}
+	.ca_client_part:before {
+		border-top: 0px solid transparent;
+		border-right: 0px solid #f0f0f0;
+		border-bottom: 0px solid transparent;
+		margin-left: 0px;
+	}
+	.ca_client_part {
+		width: 100%;
+		margin-left: 0px;
+	}
+	.ca_price_table .ca_table:hover {
+		-webkit-transform: scale(1.02);
+		-moz-transform: scale(1.02);
+		-ms-transform: scale(1.02);
+		-o-transform: scale(1.02);
+		-webkit-transition: all 0.3s;
+	}
+	.ca_price_table .ca_table.active {
+		-webkit-transform: scale(1.02);
+		-moz-transform: scale(1.02);
+		-ms-transform: scale(1.02);
+		-o-transform: scale(1.02);
+		-webkit-transition: all 0.3s;
+	}
+	.ca_timeline {
+		padding-top: 0px;
+	}
+	.ca_timeline:before {
+		left: 20px;
+	}
+	.ca_services_icon_border {
+		float: left;
+		margin-left: 25px;
+	}
+	.ca_services_inner {
+		float: left;
+	}
+	.ca_services_icon_left:after {
+		top: 10px;
+		left: -23px;
+		width: 20px;
+	}
+	.ca_services_icon_right:after {
+		left: -22px;
+		width: 20px;
+	}
+	.ca_service_second_title h4, .ca_services_title {
+		padding-top: 0px;
+	}
+	.ca_service_title_wrap h4, .ca_services_title {
+		float: left;
+		text-align: left;
+		width: 100%;
+		padding-left: 25px;
+	}
+	.ca_service_second_title h4, .ca_services_title {
+		padding-left: 25px;
+	}
+	.ca_services_desc {
+		text-align: left !important;
+		padding-left: 25px;
+	}
+	.ca_meta_part {
+		float: left !important;
+		width: 100%;
+		border-right: none;
+	}
+	.ca_calendar_part {
+		width: auto;
+		float: left;
+		border-bottom: none;
+	}
+	.ca_meta_date {
+		line-height: 28px;
+		font-size: 30px;
+		float: left;
+		display: inline-block;
+	}
+	.ca_calendar_part span p, 
+	.ca_calendar_part .ca_meta_date span {
+		font-size: 20px;
+		line-height: 0px;
+		float: none;
+		display: inline-block;
+	}
+	.ca_map_details {
+		position: relative;
+		width: 100%;
+		float: left;
+		height: auto;
+	}
+	.ca_map_details:after {
+		position: absolute;
+		top: 23%;
+		left: 50%;
+		border-right: 24px solid #b3cc98;
+		border-left: none;
+		-webkit-transform: rotate(90deg);
+		margin-left: -12px;
+		margin-top: -92px;
+	}
+	#wrapper {
+		padding-left: 0;
+	}
+	#sidebar-wrapper {
+		display: none;
+	}
+	#wrapper.active {
+		position: relative;
+		left: 250px;
+	}
+	#wrapper.active #sidebar-wrapper {
+		left: 250px;
+		width: 250px;
+		transition: all 0.4s ease 0s;
+	}
+	#menu-toggle {
+		display: inline-block;
+	}
+	.inset {
+		padding: 15px;
+	}
+	.ca_index2_slider #ca_slider2 .item .ca_slider2_overlay p iframe {
+		min-height: inherit;
+		max-width: inherit;
+	}
+	.ca_index2_slider #ca_slider2 .item img {
+		width: auto !important;
+	}
+	/* countdown css */
+	.ca_progress_value {
+		font-size: 35px;
+	}
+	.ca_progess_label {
+		font-size: 16px;
+	}
+	/* countdown css */
+	/* sidebar css */
+	.ca_sidebar_wrap p.pull-left {
+		width: 100%;
+	}
+	.ca_sidebar_wrap .cal_clock_step.pull-left{
+		width:100%;
+	}
+	/* sidebar css */
+	ul.about_list_item li {
+		width: 100%;
+		margin-top: 5px;
+	}
+	/* slider caption start */
+	.carousel .carousel-caption h1{
+		margin-top: 0;
+		font-size: 24px;
+	}
+	.carousel .carousel-caption h2{
+		margin: 0;
+		font-size: 21px;
+	}
+	.carousel .carousel-caption p{
+		font-size: 12px;
+	}
+	/* slider caption end */
+	.ca_footer_menu ul li {
+		line-height: 26px;
+	}
+}
+
+@media (max-width: 600px) {
+	/* countdown css */
+	.ca_progress_inner {
+		width: 50%;
+		margin-bottom: 50px;
+	}
+	/* countdown css */
+	.ca_support .checkbox {
+		line-height: 33px;
+	}
+	.ca_price_table .ca_table {
+		width:100%;
+	}
+}
+/* Landscape phones and down */
+@media (max-width: 480px) {
+	
+	.carousel-caption {
+		top: 0% !important;
+	}
+	.carousel .carousel-caption a {
+		margin-left: 5px;
+		margin-right: 5px;
+		font-size: 13px;
+		padding: 10px;
+		margin-bottom: 5px;
+	}
+	.ca_page_title {
+		width: 100% !important;
+		text-align: center;
+	}
+	.ca_breadcrum_main {
+		width: 100% !important;
+		text-align: center;
+	}
+	.ca_breadcrum_main .ca_breadcrum {
+		float: none !important;
+		width: 100% !important;
+		text-align: center !important;
+	}
+	.ca_breadcrum_main .ca_breadcrum li {
+		float: none;
+		display: inline-block;
+	}
+	.ca_price_table .ca_table {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.ca_price_table .ca_table:hover {
+		-webkit-transform: scale(1.02);
+		-moz-transform: scale(1.02);
+		-ms-transform: scale(1.02);
+		-o-transform: scale(1.02);
+		-webkit-transition: all 0.3s;
+	}
+	.ca_price_table .ca_table.active {
+		-webkit-transform: scale(1.02);
+		-moz-transform: scale(1.02);
+		-ms-transform: scale(1.02);
+		-o-transform: scale(1.02);
+		-webkit-transition: all 0.3s;
+	}
+	.ca_comment_title_full {
+		width: 100%;
+	}
+	.ca_index2_slider #ca_slider2 .item .ca_slider2_overlay p iframe {
+		min-height: inherit;
+		max-width: inherit;
+	}
+	.ca_index2_slider #ca_slider2 .item img {
+		width: auto !important;
+	}
+	.ca_progress_inner{
+		width:100%;
+	}
+	ul.ca_cat_blog_list li {
+		border-right:none;
+		width: 100%;
+		padding: 5px 0px;
+	}
+}	
+@media(max-width:320px){
+	.ca_team #ca_team_slider .ca_team_slider_item .ca_team_item .ca_team_image_overlay{
+		padding: 10% 10px 10px 20px;
+	}
+	.panel-title {
+		font-size: 14px !important;
+	}
+	a.expand{
+		font-size:14px !important;
+	}
+}
+/************************ media css End ******************/

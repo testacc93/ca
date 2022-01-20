@@ -1,0 +1,81 @@
+{% extends 'base.html' %}
+{% block body %}
+{% comment %} {% for key, value in all_services_dict.items %} {% endcomment %}
+{% comment %} {{ key }} {{ value }} {% endcomment %}
+{% comment %} {% for item in value %}
+{{ item }}<br>
+{% endfor %}
+{% endfor %} {% endcomment %}
+<div class="container">
+  <div id="wrapper"> 
+    <!-- Sidebar -->
+    <div id="sidebar-wrapper">
+     <ul class="sidebar-nav">
+      <h3 class="ca_heading" data-scrollreveal="enter from the top over 1s but wait 0.5s" data-sr-init="true" data-sr-complete="true">Services</h3>
+        <li>
+          {% for service in all_services %}
+            <a href="#" id="{{service}}" class="services"><i class="fa fa-angle-double-right" ></i>{{service}}</a> 
+          {% endfor %}
+        </li>
+      </ul>
+    </div>
+    
+    <!-- Page content -->
+    <div id="page-content-wrapper"> 
+      <!-- Keep all page content within the page-content inset div! -->
+      <div class="page-content inset">
+          <div class="row" id="1">
+            <div style="opacity:0"class="col-lg-12">
+              <h3 class="ca_heading" data-scrollreveal="enter from the top over 1s but wait 0.5s" data-sr-init="true" data-sr-complete="true">Jquery Accordion</h3>
+            </div>
+            <div class="col-lg-12">
+              <div class="panel-group" id="accordion">
+              {% for subservice in all_subservices%}
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title"> <a onclick="toggle(this.id)" id="subservice{{subservice.name}}" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">{{subservice.name}}</a> </h4>
+                  </div>
+                  <div style="height: 50px;" id="collapsesubservice{{subservice.name}}" class="panel-collapse collapse in">
+                    <div class="panel-body"> {{subservice.overview}} </div>
+                  </div>
+                </div>
+              {% endfor %}
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script>
+function toggle(id){
+  console.log('collapse'+id)
+  if(document.getElementById('collapse'+id).style.height == '50px'){
+    document.getElementById('collapse'+id).style.height = '0px'
+    }
+  else if(document.getElementById('collapse'+id).style.height == '0px'){
+  document.getElementById('collapse'+id).style.height = '50px'
+  }
+}
+
+ $(document).ready(function(){
+  $('.services').click(function(){
+    //var service = $(this).innerText
+    //console.log("evfef",service)
+    var service = $(this).text()
+    $.ajax({
+
+      type: 'GET',
+      url: 'allservices',
+      data: {
+        "service": service.toString()
+      },
+      success: function(data){
+        console.log(data)
+      }
+    })
+  })
+})
+</script>
+{% endblock body %}
